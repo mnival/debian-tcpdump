@@ -1,4 +1,4 @@
-FROM debian:stable-20230227-slim
+FROM debian:stable-20230411-slim
 
 LABEL maintainer="Michael Nival <docker@mn-home.fr>" \
 	name="debian-tcpdump" \
